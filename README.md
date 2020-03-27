@@ -9,8 +9,8 @@ For any question, please send email to flin_rew@163.com
 Add 'ideal lattice' menu to select one kind of positions according to the built ideal lattice.  
 
 You can also get CalAtom from Baidu Cloud Disk  
-link：https://pan.baidu.com/s/1-yXI_xAYvtVHCD6OX16DHQ    
-password：13kg      
+链接：https://pan.baidu.com/s/1raUbjP6ceN9TX5U6qIkqdQ 
+提取码：387f   （含中文操作讲解视频）    
 
 Or CodeAliyun:  https://code.aliyun.com/CalAtom/CalAtom/tree/master
 
